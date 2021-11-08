@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there, well come to my Git Profile 👋👋👋
+- 🙋‍♀ I'm Thuy - I am a positive girl who always try my best everyday to be a best version of myself
+- 🌱 I’m currently learning Computer Science at University of Information Technology
+- 📫 How to reach me: facebook ([click me](https://www.facebook.com/Nguyen.Thuy.Ban03/))
 
 <!--
 **thuynguyen2003/thuynguyen2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
